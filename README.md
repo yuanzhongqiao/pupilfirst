@@ -1,33 +1,23 @@
-## [![Pupilfirst Logo](https://public-assets.sv.co/random/201908/pupilfirst-logo-300px.png "Pupilfirst Logo")](https://lms.pupilfirst.org)
-
-[![License: MIT](https://img.shields.io/badge/license-MIT-informational)](https://github.com/pupilfirst/pupilfirst/blob/master/LICENSE)
-[![Maintainability](https://api.codeclimate.com/v1/badges/5a4e81245df6ef5b946b/maintainability)](https://codeclimate.com/github/pupilfirst/pupilfirst/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/5a4e81245df6ef5b946b/test_coverage)](https://codeclimate.com/github/pupilfirst/pupilfirst/test_coverage)
-[![Continuous Integration](https://github.com/pupilfirst/pupilfirst/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/pupilfirst/pupilfirst/actions?query=workflow%3A%22Continuous+Integration%22)
-[![](https://dcbadge.vercel.app/api/server/Sh67Tca?style=flat)](https://discord.gg/Sh67Tca)
-
----
-
-[![Screenshots](https://public-assets.sv.co/random/201909/pupilfirst-screenshots.png)](https://lms.pupilfirst.org)
-
-Pupilfirst LMS is a feature-rich open-source Learning Management System (LMS) that is built around the philosophy that
-true learning cannot happen by just consuming information; it happens when:
-
-- Students attempt relevant tasks.
-- Get personalised feedback from domain experts.
-- Reflect on their work and make improvements.
-- And finally, get involved in the learning process by answering questions from their peers.
-
-## Documentation
-
-Visit [docs.pupilfirst.com](https://docs.pupilfirst.com) for a detailed explanation of Pupilfirst's features, and to learn how to set up this repository for development and deployment.
-
-## Community
-
-[![](https://dcbadge.vercel.app/api/server/Sh67Tca?theme=discord-inverted)](https://discord.gg/Sh67Tca)
-
-Join [our Discord server](https://discord.gg/Sh67Tca) to talk to our team!
-
-## Changelog
-
-View the [releases page on GitHub](https://github.com/pupilfirst/pupilfirst/releases) to view the full changelog.
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><a href="https://lms.pupilfirst.org" rel="nofollow"><img src="https://camo.githubusercontent.com/33d07367c186896812e20a8c70f46f467101cbd1bcd8166468e75187d3c2fb60/68747470733a2f2f7075626c69632d6173736574732e73762e636f2f72616e646f6d2f3230313930382f707570696c66697273742d6c6f676f2d33303070782e706e67" alt="学生第一标志" title="学生第一标志" data-canonical-src="https://public-assets.sv.co/random/201908/pupilfirst-logo-300px.png" style="max-width: 100%;"></a></h2><a id="" class="anchor" aria-label="永久链接：" href="#"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/pupilfirst/pupilfirst/blob/master/LICENSE"><img src="https://camo.githubusercontent.com/0c3877790226345702a26996c3370b71073639ee9368116aa1b2b03a7497ca11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d696e666f726d6174696f6e616c" alt="许可证：麻省理工学院" data-canonical-src="https://img.shields.io/badge/license-MIT-informational" style="max-width: 100%;"></a>
+<a href="https://codeclimate.com/github/pupilfirst/pupilfirst/maintainability" rel="nofollow"><img src="https://camo.githubusercontent.com/b5bbb65019114d5ea4e9144926bf32d304d6902c8a7b51379bef332ab772d205/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f35613465383132343564663665663562393436622f6d61696e7461696e6162696c697479" alt="可维护性" data-canonical-src="https://api.codeclimate.com/v1/badges/5a4e81245df6ef5b946b/maintainability" style="max-width: 100%;"></a>
+<a href="https://codeclimate.com/github/pupilfirst/pupilfirst/test_coverage" rel="nofollow"><img src="https://camo.githubusercontent.com/7a0a3b125d153d0afd54f1f9c67fbbde8e39832b59a2f5ca1d55cf8754cedfa9/68747470733a2f2f6170692e636f6465636c696d6174652e636f6d2f76312f6261646765732f35613465383132343564663665663562393436622f746573745f636f766572616765" alt="测试覆盖率" data-canonical-src="https://api.codeclimate.com/v1/badges/5a4e81245df6ef5b946b/test_coverage" style="max-width: 100%;"></a>
+<a href="https://github.com/pupilfirst/pupilfirst/actions?query=workflow%3A%22Continuous+Integration%22"><img src="https://github.com/pupilfirst/pupilfirst/workflows/Continuous%20Integration/badge.svg?branch=master" alt="持续集成" style="max-width: 100%;"></a>
+<a href="https://discord.gg/Sh67Tca" rel="nofollow"><img src="https://camo.githubusercontent.com/2d59a86e86362afc9d7f1a7bd02a51119f0b8499c89525d3deff6e14d43f4fc4/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f536836375463613f7374796c653d666c6174" alt="" data-canonical-src="https://dcbadge.vercel.app/api/server/Sh67Tca?style=flat" style="max-width: 100%;"></a></p>
+<hr>
+<p dir="auto"><a href="https://lms.pupilfirst.org" rel="nofollow"><img src="https://camo.githubusercontent.com/baf70afa50fae322175ca0056a732af9f748ec58f08109ae88579d1e50c046e5/68747470733a2f2f7075626c69632d6173736574732e73762e636f2f72616e646f6d2f3230313930392f707570696c66697273742d73637265656e73686f74732e706e67" alt="截图" data-canonical-src="https://public-assets.sv.co/random/201909/pupilfirst-screenshots.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pupilfirst LMS 是一个功能丰富的开源学习管理系统 (LMS)，它的理念是：真正的学习不能仅通过消费信息来实现；而是要通过学习来实现。</font><font style="vertical-align: inherit;">它发生在以下情况：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学生尝试相关任务。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从领域专家那里获取个性化反馈。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反思自己的工作并做出改进。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后，通过回答同伴的问题来参与学习过程。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请访问</font></font><a href="https://docs.pupilfirst.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docs.pupilfirst.com，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解 Pupilfirst 功能的详细说明，并了解如何设置此存储库以进行开发和部署。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区</font></font></h2><a id="user-content-community" class="anchor" aria-label="永久链接：社区" href="#community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://discord.gg/Sh67Tca" rel="nofollow"><img src="https://camo.githubusercontent.com/376cff523df6414e87a2ca55634d3337fd7d704c46f06263c63dd4d833f65112/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f536836375463613f7468656d653d646973636f72642d696e766572746564" alt="" data-canonical-src="https://dcbadge.vercel.app/api/server/Sh67Tca?theme=discord-inverted" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入</font></font><a href="https://discord.gg/Sh67Tca" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的 Discord 服务器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与我们的团队交谈！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">变更日志</font></font></h2><a id="user-content-changelog" class="anchor" aria-label="永久链接：变更日志" href="#changelog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看</font></font><a href="https://github.com/pupilfirst/pupilfirst/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 上的发布页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以查看完整的变更日志。</font></font></p>
+</article></div>
